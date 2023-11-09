@@ -1,0 +1,25 @@
+npm create vite@latest o npm init vite@latest
+le doy nombre
+Selecciono React
+Selecciono JavaScript
+abro el proyecto en el editor
+npm install
+npm run dev
+
+
+Recomendaciones de limpieza Jaime Zapata
+Eliminar el archivo App.css
+Eliminar el contenido de index.css
+Eliminar las importaciones, variables y html de App.jsx
+
+Un componente tiene 3 partes
+1 - Función (flecha o regular)
+2 - Debe tener un retorno (el retorno solamente incluye código html, y solo retorna un único elemento)
+3 - Exportación
+
+exportaciones e importaciones
+
+Se inicializa su nombre con una Mayúscula
+El nombre de la funcion sea el mismo del componente
+No nombrar con caracteres especiales ni numeros
+No separe con guion medio o bajo
